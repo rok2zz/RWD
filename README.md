@@ -1,5 +1,8 @@
-# BIKICK
-BIKICK website with Vue.js v2
+# RWD
+RWD Practice with Vue.js and TypeScript
+
+Login ID and Password
+cofhr123 / 123123
 
 ## Project setup
 ```
@@ -15,6 +18,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
