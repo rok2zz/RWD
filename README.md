@@ -1,4 +1,4 @@
-# study1
+# BIKICK
 BIKICK website with Vue.js v2
 
 ## Project setup
