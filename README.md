@@ -1,4 +1,5 @@
 # study1
+BIKICK website with Vue.js v2
 
 ## Project setup
 ```
