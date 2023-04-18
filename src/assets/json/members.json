@@ -1,0 +1,52 @@
+{
+	"members": [
+		{
+			"id": 1,
+			"user_id": "asdasdfas",
+			"email": "asdasdfas1234@gmail.com",
+			"name": "홍길동",
+			"status": "NORMAL",
+			"registered_date": 1668053234
+		},
+		{
+			"id": 3,
+			"user_id": "sa233123",
+			"email": "abadasd@gmail.com",
+			"name": "임꺽정",
+			"status": "NORMAL",
+			"registered_date": 1668139634
+		},
+		{
+			"id": 4,
+			"user_id": "gdfs!asdx",
+			"email": "123@gmail.com",
+			"name": "김철수",
+			"status": "DELETED",
+			"registered_date": 1668140000
+		},
+		{
+			"id": 7,
+			"user_id": "123asdgf123",
+			"email": "sdxzzzz@gmail.com",
+			"name": "안영희",
+			"status": "DELETED",
+			"registered_date": 1668398834
+		},
+		{
+			"id": 12,
+			"user_id": "rrrrasd",
+			"email": "fggggf@gmail.com",
+			"name": "김두한",
+			"status": "PAUSED",
+			"registered_date": 1668485234
+		},
+		{
+			"id": 15,
+			"user_id": "asdzxcasr",
+			"email": "kjlhjjuo@gmail.com",
+			"name": "이승우",
+			"status": "NORMAL",
+			"registered_date": 1668571634
+		}
+	]
+}

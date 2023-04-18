@@ -1,0 +1,40 @@
+{
+	"contents": [
+		{
+			"id": 4,
+			"contents": "방문합니다",
+			"registered_by": 12,
+			"registered_date": 1667275634
+		},
+		{
+			"id": 7,
+			"contents": "안녕하세요 처음가입했습니다",
+			"registered_by": 1,
+			"registered_date": 1667448434
+		},
+		{
+			"id": 12,
+			"contents": "게시판 처음입니다 환영합니다",
+			"registered_by": 3,
+			"registered_date": 1667448700
+		},
+		{
+			"id": 13,
+			"contents": "오늘도 방문합니다",
+			"registered_by": 12,
+			"registered_date": 1667621234
+		},
+		{
+			"id": 14,
+			"contents": "사람이 없네요",
+			"registered_by": 3,
+			"registered_date": 1667880434
+		},
+		{
+			"id": 15,
+			"contents": "ㅠㅠ",
+			"registered_by": 12,
+			"registered_date": 1668053234
+		}
+	]
+}
